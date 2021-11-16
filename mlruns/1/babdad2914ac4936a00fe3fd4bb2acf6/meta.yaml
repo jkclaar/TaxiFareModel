@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jackclaar/code/jkclaar/TaxiFareModel/mlruns/1/babdad2914ac4936a00fe3fd4bb2acf6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: babdad2914ac4936a00fe3fd4bb2acf6
+run_uuid: babdad2914ac4936a00fe3fd4bb2acf6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1637033033176
+status: 1
+tags: []
+user_id: unknown
